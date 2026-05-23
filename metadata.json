@@ -1,0 +1,6 @@
+{
+  "name": "SmileCraft Dental Clinic",
+  "description": "Premium luxury dental clinic serving London, UK with a patient-first, anxiety-reducing experience, featuring cosmetic, implant, and general dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
